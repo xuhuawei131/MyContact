@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_out.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\anim\\push_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_in.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\anim\\push_in.xml"
+    }
+]

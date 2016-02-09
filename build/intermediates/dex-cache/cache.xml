@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\1.5\4d8fc01b6cfc30c0e0fff75bd145a72e1f087a2e\gson-1.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4d8fc01b6cfc30c0e0fff75bd145a72e1f087a2e">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\MyContact\app\build\intermediates\pre-dexed\debug\gson-1.5_7d042c219570cd022b8cd7f7ca1979861742ff1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\MyContact\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\MyContact\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_029a6292fef24dcdc1dad5b83eaa45f77c9dad11.jar" />
+    </item>
+
+</items>

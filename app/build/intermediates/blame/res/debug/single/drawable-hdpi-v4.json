@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_unfold_ori.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\menu_unfold_ori.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num2_ic2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num2_ic2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num8_ic2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num8_ic2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dial_input_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\dial_input_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_calllog_outgoing_active.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\ic_calllog_outgoing_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_more.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\btn_more.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_settings_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_bg_whilt.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\item_bg_whilt.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_checkbox_checked.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\ic_checkbox_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_call.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\btn_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_calllog_missed_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\ic_calllog_missed_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num2_ic1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num2_ic1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\incoming_off.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\incoming_off.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_sms_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\tab_sms_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_contact_selected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\tab_contact_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialx_ic1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\dialx_ic1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num5_ic2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num5_ic2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_tab_dial_pressed_up.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\bg_tab_dial_pressed_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_item_bg_sel.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\menu_item_bg_sel.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sort_icon_bg_click.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\sort_icon_bg_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num4_ic2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num4_ic2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num6_ic1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num6_ic1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_sms_send_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\bg_sms_send_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_dial_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\tab_dial_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_log_type_in.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\call_log_type_in.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num3_ic2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num3_ic2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_z.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\a_z.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_calllog_outgoing_nomal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\ic_calllog_outgoing_nomal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_return.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\btn_return.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_fold_ori.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\menu_fold_ori.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num9_ic2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num9_ic2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num5_ic1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num5_ic1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_fold_sel.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\menu_fold_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_btn.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\setting_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num0_ic1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num0_ic1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dial_delete2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\dial_delete2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialj_ic2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\dialj_ic2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\touxiang.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\touxiang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_sms_send_normal.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\bg_sms_send_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_sms_selected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\tab_sms_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\incoming_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\incoming_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num4_ic1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num4_ic1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num1_ic1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num1_ic1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dial_input_pressed.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\dial_input_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_sms_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\bg_sms_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sms_add_select_contact_btn.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\sms_add_select_contact_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_z_click.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\a_z_click.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\menu_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_contact_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\tab_contact_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num0_ic2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num0_ic2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_group_bg_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\add_group_bg_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_tab_bg.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\main_tab_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dial_delete1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\dial_delete1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_calllog_incomming_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\ic_calllog_incomming_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_calllog_call_active.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\ic_calllog_call_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_settings_selected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_calllog_missed_voip_pre.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\ic_calllog_missed_voip_pre.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_sms_input.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\bg_sms_input.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sms_edit_lxrbg.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\sms_edit_lxrbg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num7_ic1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num7_ic1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dial_input.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\dial_input.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_group_bg_pressed.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\add_group_bg_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_unfold_sel.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\menu_unfold_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\outgoing_off.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\outgoing_off.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\black_bg.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\black_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_blue.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\button_blue.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\create_new_group.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\create_new_group.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_tab_anim_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\main_tab_anim_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_checkbox_unchecked.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\ic_checkbox_unchecked.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_log_type_miss.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\call_log_type_miss.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num9_ic1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num9_ic1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num7_ic2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num7_ic2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dial_delete3.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\dial_delete3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialj_ic1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\dialj_ic1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_item_bg_sel_off.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\menu_item_bg_sel_off.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_sms_normal.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\bg_sms_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_contact.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\add_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_sms_btn.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\new_sms_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialx_ic2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\dialx_ic2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num8_ic1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num8_ic1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_log_type_out.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\call_log_type_out.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num6_ic2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num6_ic2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sms_add_contact_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\sms_add_contact_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_calllog_incomming_active.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\ic_calllog_incomming_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num3_ic1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num3_ic1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_dial_selected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\tab_dial_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\top_bar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\outgoing_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\outgoing_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_calllog_call_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\ic_calllog_call_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num1_ic2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\num1_ic2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dial_input_bg2.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\drawable-hdpi\\dial_input_bg2.jpg"
+    }
+]

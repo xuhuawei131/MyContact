@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_t9_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\home_t9_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_sms_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\home_sms_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_scroll_view.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\menu_scroll_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_say_he_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\list_say_he_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_say_me_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\list_say_me_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_contacts_to_send.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\select_contacts_to_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_view.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\scroll_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_widget_view.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\tab_widget_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\menu_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_contact_to_send_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\select_contact_to_send_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_contact_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\home_contact_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sms_messageboxlist.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\sms_messageboxlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_hometabhost.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\main_hometabhost.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_sms_page.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\home_sms_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_sms.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\new_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_contact_page.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\home_contact_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_dial_calllog_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\home_dial_calllog_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_dial_page.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\home_dial_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newsms_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\newsms_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_setting_page.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout\\home_setting_page.xml"
+    }
+]

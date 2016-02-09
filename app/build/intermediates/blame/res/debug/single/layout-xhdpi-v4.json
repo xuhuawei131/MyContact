@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\select_contact_to_send_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout-xhdpi\\select_contact_to_send_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\home_sms_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout-xhdpi\\home_sms_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\contact_home_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout-xhdpi\\contact_home_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\home_t9_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout-xhdpi\\home_t9_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\home_dial_calllog_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyContact\\app\\src\\main\\res\\layout-xhdpi\\home_dial_calllog_list_item.xml"
+    }
+]
